@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "CassaforteOID/1.0.0": {
+        "runtime": {
+          "CassaforteOID.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CassaforteOID/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
